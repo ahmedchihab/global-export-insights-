@@ -52,6 +52,8 @@ Outliers were detected using the **Interquartile Range (IQR)** method:
 
 This ensures extreme values do not distort averages and comparisons.
 
+<img width="772" height="432" alt="image" src="https://github.com/user-attachments/assets/11b38b20-e0a5-4958-bcee-5203524dff8b" />
+
 ---
 
 ## **Tools Used**
